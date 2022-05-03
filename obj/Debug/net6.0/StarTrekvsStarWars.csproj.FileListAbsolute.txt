@@ -1,0 +1,15 @@
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\bin\Debug\net6.0\StarTrekvsStarWars.exe
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\bin\Debug\net6.0\StarTrekvsStarWars.deps.json
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\bin\Debug\net6.0\StarTrekvsStarWars.runtimeconfig.json
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\bin\Debug\net6.0\StarTrekvsStarWars.dll
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\bin\Debug\net6.0\StarTrekvsStarWars.pdb
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\StarTrekvsStarWars.csproj.AssemblyReference.cache
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\StarTrekvsStarWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\StarTrekvsStarWars.AssemblyInfoInputs.cache
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\StarTrekvsStarWars.AssemblyInfo.cs
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\StarTrekvsStarWars.csproj.CoreCompileInputs.cache
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\StarTrekvsStarWars.dll
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\refint\StarTrekvsStarWars.dll
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\StarTrekvsStarWars.pdb
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\StarTrekvsStarWars.genruntimeconfig.cache
+C:\Users\jgstu\Projects\WTW\StarTrekvsStarWars\obj\Debug\net6.0\ref\StarTrekvsStarWars.dll
